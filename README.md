@@ -1,2 +1,4 @@
 # hello--world
-hola
+python>
+a=input("hello world")
+print(a)
